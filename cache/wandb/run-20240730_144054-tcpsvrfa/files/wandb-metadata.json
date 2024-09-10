@@ -1,0 +1,82 @@
+{
+    "os": "Linux-5.13.0-52-generic-x86_64-with-glibc2.34",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-07-30T09:10:55.444444",
+    "startedAt": "2024-07-30T09:10:54.658438",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/mothi/CVPR-2025/cache/wandb_test.py",
+    "codePathLocal": "wandb_test.py",
+    "codePath": "wandb_test.py",
+    "host": "questlab-mothi",
+    "username": "mothi",
+    "executable": "/home/mothi/anaconda3/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3.05675,
+        "min": 800.0,
+        "max": 4700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.0,
+            "min": 800.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3.454,
+            "min": 800.0,
+            "max": 4700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 112.6717529296875,
+            "used": 30.79070281982422
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070 SUPER",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 62.71821594238281
+    }
+}
